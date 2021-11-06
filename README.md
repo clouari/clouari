@@ -1,3 +1,5 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?height=400&text=Hi%20There!&desc=If_I_were_to%20talk_about%20my_self)
+
 <a href="https://www.instagram.com/clou_ari0630/?hl=ko"><img src="https://img.shields.io/badge/MY_Instagram-9cf?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=https://img.shields.io/badge/file%3A%2F%2F%2FUsers%2Fjeongdahui%2FDownloads%2Fapple.svg-My__Instagram-9cf"/></a> <a href="https://www.notion.so/Mainspace-2883683f58984f99bf25d2acb1da8418"><img src="https://img.shields.io/badge/-My_NOTION-ff69b4?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=https://img.shields.io/badge/file%https%3A%2F%2Fwww.notion.so%2FMainspace--2883683f58984f99bf25d2acb1da8418-My__NOTION-ff69b4"/></a> 
 <a href="https://blog.naver.com/ekdudekgml35"><img src="https://img.shields.io/badge/-My_BLOG-blueviolet?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=https://img.shields.io/badge/https%3A%2F%2Fblog.naver.com%2Fekdudekgml35-My__BLOG-blueviolet"/></a> 
+
