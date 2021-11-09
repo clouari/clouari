@@ -9,6 +9,9 @@
 <img src="IMG_9224.jpg" width="350" height="400"/>"
 ## 🖐🏻 21/10/20 부터 세민직업전문학원 에서 수업을 열심히 듣고 있습니다!!
 ### <br />아직은 천천히 기어가는 단계지만 수업이 끝날 때에는 잘 걷고 있기를!!⭐️
+<hr />
+내가 지금 배우고 있는 것 <hr />
+<br />
 <br />
 
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20⭐️Birthday%2012/30⭐️%20Hobby%20is%20exercising🏃🏻‍♀️%20and%20baseball.⚾️%20Team%20is%20DOOSANBEARS🐻%20&fontAlign=50&height=300&fontSize=70%20%&textBg=true&animation=twinkling)
