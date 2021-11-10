@@ -7,7 +7,7 @@
 <br />
 
 
-<img src="IMG_4517.JPG" width="380" height="500"/>⭐️🏃🏻‍♀️🏃🏻‍♀️🏃🏻‍♀️🏃🏻‍♀️🏃🏻‍♀️🏃🏻‍♀️🏃🏻‍♀️🏃🏻‍♀️⭐️<img src="IMG_9224.jpg" width="380" height="500"/>
+<img src="IMG_4517.JPG" width="380" height="500"/>⭐️🏃🏻‍♀️🏃🏻‍♀️🏃🏻🏃🏻‍♀️⭐️<img src="IMG_9224.jpg" width="380" height="500"/>
 <div align=center>
 ⏳ 21/10/20 ~ ing ⏳ <br />
  <br />아직은 천천히 기어가는 단계지만 수업이 끝날 때에는 잘 걷고 있기를!!⭐️
