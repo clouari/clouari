@@ -14,7 +14,7 @@
  <br />아직은 천천히 기어가는 단계지만 수업이 끝날 때에는 잘 걷고 있기를!!⭐️
 <hr />
 <div />
-여기서 나는 무엇을 배울까? <hr />
+여기서 나는 무엇을 배울까?
 <br />
 <br />
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -32,7 +32,7 @@
  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
  <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> 
  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-
+<hr />
  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20⭐️Birthday%2012/30⭐️%20Hobby%20is%20exercising🏃🏻‍♀️%20and%20baseball.⚾️%20Team%20is%20DOOSANBEARS🐻%20&fontAlign=50&height=300&fontSize=70%20%&textBg=true&animation=twinkling)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clouari&show_icons=true&theme=radical)
