@@ -1,3 +1,4 @@
+
 ![header](https://capsule-render.vercel.app/api?height=400&text=Hi%20There!&desc=If%20I%20were%20to%20talk%20about%20myself.%20)
 
 <a href="https://www.instagram.com/clou_ari0630/?hl=ko"><img src="https://img.shields.io/badge/MY_Instagram-9cf?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white&link=https://img.shields.io/badge/file%3A%2F%2F%2FUsers%2Fjeongdahui%2FDownloads%2Fapple.svg-My__Instagram-9cf"/></a> 
@@ -45,9 +46,10 @@
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+ <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
  <hr />
 
  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20⭐️Birthday%2012/30⭐️%20Hobby%20is%20exercising🏃🏻‍♀️%20and%20baseball.⚾️%20Team%20is%20DOOSANBEARS🐻%20&fontAlign=50&height=300&fontSize=70%20%&textBg=true&animation=twinkling)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clouari&show_icons=true&theme=radical)
-
+ 
