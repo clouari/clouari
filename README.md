@@ -14,7 +14,7 @@
  <br />아직은 천천히 기어가는 단계지만 수업이 끝날 때에는 잘 걷고 있기를!!⭐️
 <hr />
 <div />
-여기서 나는 무엇을 배울까?
+배울 예정이 언어
 <br />
 <br />
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
