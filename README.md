@@ -14,7 +14,7 @@
  <br /> 더 열심히 달리자!!
 <hr />
 <div />
-배울 예정인 언어는??
+배울 예정인 언어는?? (Vue.js, Node.js)
 <br />
 <br />
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
