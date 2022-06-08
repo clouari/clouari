@@ -11,7 +11,7 @@
 <img src="IMG_4517.JPG" width="380" height="500"/>⭐️<img src="IMG_9224.jpg" width="380" height="500"/>
 <div align=center>
 ⏳ 21/10/20 ~  <br />
- <br /> 더 열심히 달리자!!
+ <br /> 
 <hr />
 <div />
 배울 언어는?? (Vue.js, Node.js)
