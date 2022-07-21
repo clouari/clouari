@@ -10,7 +10,7 @@
  <br /> 
 <hr />
 <div />
-배울 언어는?? (Vue.js, Node.js)
+
 <br />
 <br />
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -32,7 +32,6 @@
  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=pink">
 <hr />
- 현재 배우고 있는 것은❔❔
  <br /><br />
  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
@@ -49,6 +48,6 @@
  <hr />
 
  
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20⭐️Birthday%2012/30⭐️%20Hobby%20is%20exercising🏃🏻‍♀️%20and%20baseball.⚾️%20Team%20is%20DOOSANBEARS🐻%20&fontAlign=50&height=300&fontSize=70%20%&textBg=true&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20⭐️🐻%20&fontAlign=50&height=300&fontSize=70%20%&textBg=true&animation=twinkling)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Clouari&show_icons=true&theme=radical)
  
