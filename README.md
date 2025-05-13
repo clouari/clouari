@@ -1,11 +1,11 @@
-
+#
 ![header](https://capsule-render.vercel.app/api?height=400&text=Hi%20There!&desc=If%20I%20were%20to%20talk%20about%20myself.%20)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fclouari%2Fclouari%2Fedit%2Fmain%2FREADME.md&count_bg=%23C772E1&title_bg=%23FBDDDD&icon=apple.svg&icon_color=%23C763F2&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)
 <br />
 
 
-<img src="IMG_4517.JPG" width="380" height="500"/>⭐️<img src="IMG_9224.jpg" width="380" height="500"/>
+⭐️<img src="IMG_9224.jpg" width="380" height="500"/>
 <div align=center>
  <br > 
 <hr />
